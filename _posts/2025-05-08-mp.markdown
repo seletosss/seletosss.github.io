@@ -1,0 +1,20 @@
+---
+layout: post
+title: "robot FSR design"
+author: "seleto"
+header-style: text
+catalog: true
+tags:
+   - Web
+   - Javascript
+---
+# 产品介绍
+===
+# 产品设计
+===
+## 硬件设计
+---
+## 软件设计
+---
+## 外观设计
+---
